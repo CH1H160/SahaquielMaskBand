@@ -3,6 +3,7 @@
 
 An apostle-shaped mask band that appears in a certain anime.
 
+![MaskBand0](https://user-images.githubusercontent.com/30834673/104089593-8772bf80-52b3-11eb-87bd-adc860ba7c28.png)
 
 
 # Getting Started
