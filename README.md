@@ -9,7 +9,7 @@ An apostle-shaped mask band that appears in a certain anime.
 # Getting Started
 PLAやABSは「Sahaquiel_Curve.stl」、
 
-TPUなど、柔らかい材料は「Sahaquiel_Flat.stl」を3Dプリンタで造形可能。
+TPUなど、柔らかい材料は「Sahaquiel_Flat.stl」を3Dプリンタで造形。
 
 (造形角度はそのままでOK)
 
