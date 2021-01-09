@@ -25,3 +25,5 @@ For soft materials such as TPU, "Sahaquiel_Flat.stl" can be modeled with a 3D pr
 任意の個所にマスクの紐を引っかけて使おう。
 
 Use the mask string by hooking it anywhere.
+
+![MaskBand1](https://user-images.githubusercontent.com/30834673/104089542-4bd7f580-52b3-11eb-8f70-8c24adf69c6a.png)
