@@ -6,10 +6,10 @@ An apostle-shaped mask band that appears in a certain anime.
 ![MaskBand0](https://user-images.githubusercontent.com/30834673/104089593-8772bf80-52b3-11eb-87bd-adc860ba7c28.png)
 
 
-# Getting Started
-PLAやABSは「Sahaquiel_Curve.stl」、
+## Usage
+●PLAやABSは「Sahaquiel_Curve.stl」、
 
-TPUなど、柔らかい材料は「Sahaquiel_Flat.stl」を3Dプリンタで造形。
+●TPUなど、柔らかい材料は「Sahaquiel_Flat.stl」を3Dプリンタで造形。
 
 (造形角度はそのままでOK)
 
@@ -22,8 +22,8 @@ For soft materials such as TPU, "Sahaquiel_Flat.stl" can be modeled with a 3D pr
 
 
 
-# Usage
-任意の個所にマスクの紐を引っかけて使おう。
+
+●任意の個所にマスクの紐を引っかけて使おう。
 
 Use the mask string by hooking it anywhere.
 
